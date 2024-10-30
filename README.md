@@ -46,3 +46,5 @@ I may not have fully executed the "growing an audience" part above, or posting r
 I'm incredibly grateful that such a supportive community of users, partners, and friends has organically sprung up around ProjectionLab.
 
 And I'm going to keep spending the lion's share of my time making the platform better and better, a little every day! 😊
+
+If you'd like, you can follow along [here](https://x.com/_knolan)! 
