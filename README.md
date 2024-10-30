@@ -2,7 +2,7 @@
 
 I'm a software engineer and the founder of [ProjectionLab](https://projectionlab.com).
 
-I couldn't find a good financial and retirement planning app for FIRE that felt modern, flexible, and engaging... so I [decided to build one!](https://projectionlab.com/blog/choosefi-podcast)
+I couldn't find a good financial and retirement planning app for FIRE and financial independence that felt modern, flexible, and engaging... so I [decided to build one!](https://projectionlab.com/blog/choosefi-podcast)
 
 Right now I'm working on PL full-time. But 4 years ago, this seemed literally impossible.
 
