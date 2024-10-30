@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Kyle.
 
-I'm a software engineer and the founder of [ProjectionLab](https://projectionlab.com)
+I'm a software engineer and the founder of [ProjectionLab](https://projectionlab.com).
 
 I couldn't find a good financial and retirement planning app for FIRE that felt modern, flexible, and engaging... so I [decided to build one!](https://projectionlab.com/blog/choosefi-podcast)
 
@@ -12,18 +12,18 @@ If you asked what my odds were of ever making a living building indie software..
 
 I would have said: 1-5%
 
-Back then:
-❌ $0 MRR
-❌ No marketing experience
-❌ Graveyard of side projects I never tried to monetize
-💡 An idea for a new one
+Back then:  
+❌ $0 MRR  
+❌ No marketing experience  
+❌ Graveyard of side projects I never tried to monetize  
+💡 An idea for a new one  
 
-4 years later:
-🧑‍💻 150,000+ lines of original code
-👥 25,000+ MAUs
-🤑 $52,000+ / mo revenue
-👨‍💼 A growing team
-🥾 Fully bootstrapped!
+4 years later:  
+🧑‍💻 150,000+ lines of original code  
+👥 25,000+ MAUs  
+🤑 $52,000+ / mo revenue  
+👨‍💼 A growing team  
+🥾 Fully bootstrapped!  
 
 PL has changed my life. And it's a real honor to hear that it's already made a small impact in the lives of so many others.
 
