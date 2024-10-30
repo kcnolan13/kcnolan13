@@ -8,9 +8,7 @@ Right now I'm working on PL full-time.
 
 But 4 years ago, this seemed literally impossible.
 
-If you asked what my odds were of ever making a living building indie software...
-
-I would have said: 1-5%
+If you asked what my odds were of ever making a living building indie software, I would have said: **1-5%** 😬
 
 Back then:  
 ❌ $0 MRR  
